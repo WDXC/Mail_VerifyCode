@@ -13,6 +13,9 @@ build.sh 运行脚本
 在当前目录下运行build.sh脚本<code>./build.sh</code>  
 若是无法运行，请先运行<code>autoreconf -ivf</code>
 
+## 运行截图
+![avatar](./Asset/pic.png)
+
 ## 说明
 主函数中仅有发送邮件的代码  
 应用验证码限制，需自行调用方法

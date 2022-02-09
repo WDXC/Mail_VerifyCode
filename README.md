@@ -1,6 +1,6 @@
 # Mail_VerifyCode
 
-## 环境说明
+## 环境
 Ubuntu 20.04  
 g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0  
 autoconf (GNU Autoconf) 2.69  
